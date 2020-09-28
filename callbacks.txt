@@ -68,3 +68,4 @@
 ||*gotalk*
 ||*krible*
 ||chat.chatra.io*
+||*calltouch*
