@@ -69,4 +69,4 @@
 ||*krible*
 ||chat.chatra.io*
 ||*calltouch*
-||*novostroev*
+||*novostroev/bitrix*
