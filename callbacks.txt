@@ -70,3 +70,4 @@
 ||chat.chatra.io*
 ||*calltouch*
 ||*leadback*
+||*call.tracker.js*
