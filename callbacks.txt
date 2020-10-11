@@ -71,3 +71,4 @@
 ||*calltouch*
 ||*leadback*
 ||*call.tracker.js*
+||*scarabresearch*
