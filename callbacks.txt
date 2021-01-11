@@ -73,6 +73,4 @@
 ||*call.tracker.js*
 ||*scarabresearch*
 ||*carrotquest*
-||*tilda*
-||*tildacdn*
 ||*zadarma*
